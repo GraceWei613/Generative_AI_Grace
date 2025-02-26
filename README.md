@@ -1,5 +1,4 @@
 # Generative_AI_Grace
-# generative_ai
 
 - **姓名**：魏主馨
 - **系級**：英語所碩一
